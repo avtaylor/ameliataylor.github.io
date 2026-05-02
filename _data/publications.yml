@@ -1,20 +1,37 @@
 main:
 
   - title: "YOLOv8s-WAMNet: Enhancing robust vehicle detection under adverse weather via hybrid attention and multi-scale fusion in real time"
-    authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding authors)
+    authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding author)
     conference_short: Sci Rep
     conference: Scientific Reports (Nature), 2026.
     pdf: https://doi.org/10.1038/s41598-026-46527-5
     image: ./assets/img/teaser_example_2.png
 
   - title: "Assessing language barriers in health facilities in Malawi"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    authors: <strong>Taylor, A.*</strong>, Kazembe, P. (*Corresponding author)
+    conference_short: BMC
+    conference: BMC Health Services Research (BMC), 2024.
+    pdf: https://doi.org/10.1186/s12913-024-11901-4
     image: ./assets/img/teaser_example.png
     
+  - title: "Navigating Knowledge Engineering Challenges in Integrating Large Language Models into Social Support Initiatives"
+    authors: <strong>Taylor, A.</strong>, Sokatha, Z., Junck, L.
+    conference_short: SSRN
+    conference: SSRN, 2024.
+    pdf: https://doi.org/10.2139/ssrn.5338803 
+    image: ./assets/img/teaser_example.png
+    note: Preprint
+
+  - title: Revisiting the use and effectiveness of patient-held records in rural Malawi
+    authors: <strong>Taylor, A.*</strong>, Kazembe, P. (*Corresponding author)
+    conference_short: BMC
+    conference: BMC Health Services Research (BMC), 2025.
+    pdf: https://doi.org/10.1186/s12913-025-12844-0
+    image: ./assets/img/teaser_example.png
+    
+  - title: Self-directed learning for community health workers in Malawi through Generative AI
+    authors: <strong>Taylor, A.*</strong>, et al. (*Corresponding authors)
+    conference_short: ICHI
+    conference: IEEE International Conference on Healthcare Informatics (ICHI), 2024.
+    pdf: https://doi.org/10.1109/ICHI61247.2024.00092
+    image: ./assets/img/teaser_example.png
