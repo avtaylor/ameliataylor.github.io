@@ -1,7 +1,7 @@
 main:
 
   - title: "YOLOv8s-WAMNet: Enhancing robust vehicle detection under adverse weather via hybrid attention and multi-scale fusion in real time"
-    authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding authors)    conference_short: MICCAI
+    authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding authors)
     conference_short: Sci Rep
     conference: Scientific Reports (Nature), 2026.
     pdf: https://doi.org/10.1038/s41598-026-46527-5
