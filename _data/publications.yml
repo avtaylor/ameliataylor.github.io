@@ -1,37 +1,37 @@
 main:
 
   - title: YOLOv8s-WAMNet: Enhancing robust vehicle detection under adverse weather via hybrid attention and multi-scale fusion in real time
-    authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., Taylor, A. et al.
+    authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding authors)
     conference_short: Sci Rep
     conference: Scientific Reports (Nature), 2026.
     pdf: https://doi.org/10.1038/s41598-026-46527-5
 
   - title: Using Machine Learning to Detect Fraudulent SMSs in Chichewa
-    authors: Taylor, A., Robert, A. (2025)
+    authors: Taylor, A., Robert, A.
     conference_short: AISMT
     conference: Integrating AI in Science, Management, and Technology, Springer (AISMT), 2025.
     pdf: https://doi.org/10.1007/978-3-032-08260-2_12
   
   - title: Revisiting the use and effectiveness of patient-held records in rural Malawi
-    authors: Taylor, A., Kazembe, P. (2025)
+    authors: <strong>Taylor, A.</strong>, Kazembe, P.
     conference_short: BMC
     conference: BMC Health Services Research (BMC), 2025.
     pdf: https://doi.org/10.1186/s12913-025-12844-0
   
   - title: Self-directed learning for community health workers in Malawi through Generative AI
-    authors: Taylor, A., et al.
+    authors: <strong>Taylor, A.</strong>, et al.
     conference_short: ICHI
     conference: IEEE International Conference on Healthcare Informatics (ICHI), 2024.
     pdf: https://doi.org/10.1109/ICHI61247.2024.00092
   
   - title: Navigating Knowledge Engineering Challenges in Integrating Large Language Models into Social Support Initiatives
-    authors: Taylor, A., Sokatha, Z., Junck, L.
+    authors: <strong>Taylor, A.</strong>, Sokatha, Z., Junck, L.
     conference_short: SSRN
     conference: SSRN Preprint, 2024.
     pdf: https://doi.org/10.2139/ssrn.5338803
   
   - title: Assessing language barriers in health facilities in Malawi
-    authors: Taylor, A., Kazembe, P. (2024)
+    authors: <strong>Taylor, A.</strong>, Kazembe, P.
     conference_short: BMC
     conference: BMC Health Services Research (BMC), 2024.
     pdf: https://doi.org/10.1186/s12913-024-11901-4
@@ -43,13 +43,13 @@ main:
     pdf: https://doi.org/10.3389/fdgth.2024.1329630
   
   - title: Detection of Alzheimer’s disease using pre-trained deep learning models through transfer learning: a review
-    authors: Heenaye-Mamode Khan, M., Reesaul, P., Auzine, M., <strong>Taylor, A.</strong>
+    authors: Heenaye-Mamode Khan, M., Reesaul, P., Auzine, M., <strong>Taylor, A.*</strong> (*Corresponding author)
     conference_short: AI Review
     conference: Artificial Intelligence Review, 2024.
     pdf: https://doi.org/10.1007/s10462-024-10914-z
   
   - title: Insights into COVID-19 data collection and management in Malawi
-    authors: Taylor, A., Liwewe, T., Todd, J., et al.
+    authors: <strong>Taylor, A.</strong>, Liwewe, T., Todd, J., et al.
     conference_short: Wellcome
     conference: Wellcome Open Research, 2024.
     pdf: https://doi.org/10.12688/wellcomeopenres.21131.1
@@ -60,7 +60,7 @@ main:
     conference: Preprint, 2024.
   
   - title: mwBTFreddy: A Dataset for Flash Flood Damage Assessment in Urban Malawi
-    authors: Chapuma, E., Mengezi, G., Msasa, L., <strong>Taylor, A.</strong>
+    authors: Chapuma, E., Mengezi, G., Msasa, L., <strong>Taylor, A.*</strong> (*Corresponding author)
     conference_short: arXiv
     conference: arXiv preprint, 2025.
     pdf: https://doi.org/10.48550/arXiv.2505.0124
