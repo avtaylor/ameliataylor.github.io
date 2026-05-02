@@ -30,8 +30,29 @@ main:
     image: ./assets/img/teaser_example.png
     
   - title: Self-directed learning for community health workers in Malawi through Generative AI
-    authors: <strong>Taylor, A.*</strong>, et al. (*Corresponding authors)
+    authors: <strong>Taylor, A.*</strong>, Magwira, M., Chamangwana, C., et. al. (*Corresponding authors)
     conference_short: ICHI
     conference: IEEE International Conference on Healthcare Informatics (ICHI), 2024.
     pdf: https://doi.org/10.1109/ICHI61247.2024.00092
+    image: ./assets/img/teaser_example.png
+
+  - title: "INSPIRE Datahub: A Pan-African Integrated Suite of Services for Harmonising Longitudinal Population Health Data Using OHDSI Tools"
+    authors: Bhattacharjee, T., Todd, J., Kiwuwa-Muyingo, S., <strong>Taylor, A.</strong>, Greenfield, J.
+    conference_short: Frontiers
+    conference: Frontiers in Digital Health, 2024.
+    pdf: https://doi.org/10.3389/fdgth.2024.1329630
+    image: ./assets/img/teaser_example.png
+  
+  - title: "Detection of Alzheimer’s disease using pre-trained deep learning models through transfer learning: a review"
+    authors: Heenaye-Mamode Khan, M., Reesaul, P., Auzine, M., <strong>Taylor, A.*</strong> (*Corresponding author)
+    conference_short: AI Review
+    conference: Artificial Intelligence Review, 2024.
+    pdf: https://doi.org/10.1007/s10462-024-10914-z
+    image: ./assets/img/teaser_example.png
+  
+  - title: Insights into COVID-19 data collection and management in Malawi
+    authors: <strong>Taylor, A.</strong>, Liwewe, T., Todd, J., et al.
+    conference_short: Wellcome
+    conference: Wellcome Open Research, 2024.
+    pdf: https://doi.org/10.12688/wellcomeopenres.21131.1
     image: ./assets/img/teaser_example.png
