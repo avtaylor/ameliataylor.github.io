@@ -53,5 +53,3 @@ In 2022, I have founded the <a href="https://kailab.tech" target="_blank">Kuyese
 - Data Processing and Consulting Services for World Bank (2026 - present): Supports the implementation of a pilot Digital Low-Resource Language Library in Malawi
 
 {% include_relative _includes/publications.md %}
-
-#{% include_relative _includes/services.md %}
