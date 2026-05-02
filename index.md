@@ -54,4 +54,4 @@ In 2022, I have founded the <a href="https://kailab.tech" target="_blank">Kuyese
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+#{% include_relative _includes/services.md %}
