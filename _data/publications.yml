@@ -1,130 +1,23 @@
 main:
 
-  - title: YOLOv8s-WAMNet: Enhancing robust vehicle detection under adverse weather via hybrid attention and multi-scale fusion in real time
-    authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding authors)
-    conference_short: Sci Rep
-    conference: Scientific Reports (Nature), 2026.
-    pdf: https://doi.org/10.1038/s41598-026-46527-5
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-  - title: Using Machine Learning to Detect Fraudulent SMSs in Chichewa
-    authors: Taylor, A., Robert, A.
-    conference_short: AISMT
-    conference: Integrating AI in Science, Management, and Technology, Springer (AISMT), 2025.
-    pdf: https://doi.org/10.1007/978-3-032-08260-2_12
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: Revisiting the use and effectiveness of patient-held records in rural Malawi
-    authors: <strong>Taylor, A.</strong>, Kazembe, P.
-    conference_short: BMC
-    conference: BMC Health Services Research (BMC), 2025.
-    pdf: https://doi.org/10.1186/s12913-025-12844-0
-    page:
-    bibtex: 
-    notes: 
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
     image: ./assets/img/teaser_example.png
     
-  - title: Self-directed learning for community health workers in Malawi through Generative AI
-    authors: <strong>Taylor, A.</strong>, et al.
-    conference_short: ICHI
-    conference: IEEE International Conference on Healthcare Informatics (ICHI), 2024.
-    pdf: https://doi.org/10.1109/ICHI61247.2024.00092
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: Navigating Knowledge Engineering Challenges in Integrating Large Language Models into Social Support Initiatives
-    authors: <strong>Taylor, A.</strong>, Sokatha, Z., Junck, L.
-    conference_short: SSRN
-    conference: SSRN Preprint, 2024.
-    pdf: https://doi.org/10.2139/ssrn.5338803
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: Assessing language barriers in health facilities in Malawi
-    authors: <strong>Taylor, A.</strong>, Kazembe, P.
-    conference_short: BMC
-    conference: BMC Health Services Research (BMC), 2024.
-    pdf: https://doi.org/10.1186/s12913-024-11901-4
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: INSPIRE Datahub: A Pan-African Integrated Suite of Services for Harmonising Longitudinal Population Health Data Using OHDSI Tools
-    authors: Bhattacharjee, T., Todd, J., Kiwuwa-Muyingo, S., <strong>Taylor, A.</strong>, Greenfield, J.
-    conference_short: Frontiers
-    conference: Frontiers in Digital Health, 2024.
-    pdf: https://doi.org/10.3389/fdgth.2024.1329630
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: Detection of Alzheimer’s disease using pre-trained deep learning models through transfer learning: a review
-    authors: Heenaye-Mamode Khan, M., Reesaul, P., Auzine, M., <strong>Taylor, A.*</strong> (*Corresponding author)
-    conference_short: AI Review
-    conference: Artificial Intelligence Review, 2024.
-    pdf: https://doi.org/10.1007/s10462-024-10914-z
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: Insights into COVID-19 data collection and management in Malawi
-    authors: <strong>Taylor, A.</strong>, Liwewe, T., Todd, J., et al.
-    conference_short: Wellcome
-    conference: Wellcome Open Research, 2024.
-    pdf: https://doi.org/10.12688/wellcomeopenres.21131.1
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: Mapping the Potentials and Limitations of Using Generative AI Technologies to Address Socio-Economic Challenges in LMICs
-    authors: Adams, R., Sokatha, Z., Junck, L., <strong>Taylor, A.</strong>, et al.
-    conference_short: Preprint
-    conference: Preprint, 2024.
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: mwBTFreddy: A Dataset for Flash Flood Damage Assessment in Urban Malawi
-    authors: Chapuma, E., Mengezi, G., Msasa, L., <strong>Taylor, A.*</strong> (*Corresponding author)
-    conference_short: arXiv
-    conference: arXiv preprint, 2025.
-    pdf: https://doi.org/10.48550/arXiv.2505.0124
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: Book Review – Journal of Interactive Media in Education
-    authors: Wang, H., Marcelle, P., <strong>Taylor, A.</strong>, et al.
-    conference_short: JIME
-    conference: Journal of Interactive Media in Education (JIME), 2024
-    pdf: https://jime.open.ac.uk/articles/10.5334/jime.946
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
-  
-  - title: Enabling data sharing and utilization for African population health data using OHDSI tools with an OMOP common data model
-    authors: Kiwuwa-Muyingo, S., Todd, J., Bhattacharjee, T., <strong>Taylor, A.</strong>, Greenfield, J.
-    conference_short: Frontiers
-    conference: Frontiers in Public Health, 2023.
-    pdf: https://doi.org/10.3389/fpubh.2023.1116682
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/teaser_example.png
