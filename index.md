@@ -8,7 +8,7 @@ I am a computer scientist with a PhD in Mathematical Logic and over a decade of 
 
 I currently serve as a Senior Lecturer at the Malawi University of Business and Applied Sciences (MUBAS), where I teach undergraduate and postgraduate modules, supervise students and engage in reaseach. I have led the development of postgraduate programmes in Artificial Intelligence and Data Analytics, and supervise doctoral research in computational modelling. 
 
-I am the founder of the [Kuyesera AI Lab]{https://kailab.tech}. 
+In 2022, I have founded the <a href="https://kailab.tech" target="_blank">Kuyesera AI Lab</a> to provide a space where Malawian researchers, students, and innovators could explore how artificial intelligence can address local challenges responsibly and effectively. My goal in founding the lab was to build a sustainable foundation for AI research and innovation that reflects African priorities and empowers local expertise.
 
 ## Research Interests
 
@@ -31,7 +31,27 @@ I am the founder of the [Kuyesera AI Lab]{https://kailab.tech}.
 - **[2007 - 2008]** Quantitative Investment Analyst, Scottish Widows Investment Partnership, UK. I built models for pricing derivatives (i.e. interest rate swaps) for managing liability driven investments. Also developed and managed internal risk models for fixed-income trading. 
 - **[2006 - 2007]** DIAM Asset Management, City of London, UK. My role as a quantitative analysis focussed on developing mathematical and statistical modelling for understanding the behaviour of stock markets, and for stock valuation and market performance.
 - **[2005 - 2006]** Research Assistant, Heriot-Watt University, Edinburgh, UK. Part of a research team from Heriot-Watt and the Royal Observatory working on the design of a database for astronomical data and on a query language for extracting that data.
-  
+
+## Present and Past Teaching Roles
+- MSc Data Analytics, MUBAS: I teach Artificial Intelligence and Researcg Methods. I was the program developer. 
+- PhD and MSc in Informatics, University of Malawi, Lecturer teaching Machine Learning and supervising students.
+- MSc AI, Machine Learning and Data Analytics, University of Mauritius.
+- MSc in Bioinformatics, KuHES and Malawi University of Science and Technology: teaching data structures.
+
+## Events and Grants (in order or relevance)
+- **2022 – 2024** Principal Investigator for MUBAS, INSPIRE Network: Building a data science platform, UNS130629, a Welcome Trust funded project
+- **2023** Winner (one of almost 50 winning projects) of a Global Challenges Grant for Catalyzing Equitable Artificial Intelligence (AI) Use funded by the Bill and Melinda Gates Foundation
+- **2021-2022** Principal Investigator at MUBAS in a consortium led by APHRC, COVID-19 Global South AI and Data Innovation Grant, IDRC, Project ID, 109622
+- **2020** Language Coordinator Chichewa, in a Lacuna funded project, MasakhaNER for developing annotated datasets for African languages
+- **2019 - 2020** AI4D Africa Innovation winner, Automatic classification of legal text in Malawi
+- **2019** - current  IndabaX Malawi, annual Machine Learning event - main organiser indabaxmw.wordpress.com
+- **2019** - Data Analytics 1.0 Competition, https://sites.google.com/view/dataanalytics10
+- **2019** AI4D Language Dataset Fellowship
+
+## Consultancies
+- Senior Expert in AI, Chilungamo II (Access to Justice) Programme (2026): Delivered specialised training for the Malawi Judiciary on AI
+- Data Processing and Consulting Services for World Bank (2026 - present): Supports the implementation of a pilot Digital Low-Resource Language Library in Malawi
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
