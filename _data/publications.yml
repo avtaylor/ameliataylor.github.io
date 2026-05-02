@@ -1,5 +1,13 @@
 main:
 
+  - title: "Standardisation and Harmonisation of Clinical Data: Scoping Review"
+    authors: <strong>Taylor, A.*</strong>, Vellemu, R., Todd, J. (*Corresponding author)
+    conference_short: OSF
+    conference: Open Science Foundation, 2026.
+    pdf: https://osf.io/cbmeh/overview
+    image: ./assets/img/teaser_example_2.png
+    notes: Preprint
+
   - title: "YOLOv8s-WAMNet: Enhancing robust vehicle detection under adverse weather via hybrid attention and multi-scale fusion in real time"
     authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding author)
     conference_short: Sci Rep
@@ -28,6 +36,7 @@ main:
     conference: BMC Health Services Research (BMC), 2025.
     pdf: https://doi.org/10.1186/s12913-025-12844-0
     image: ./assets/img/teaser_example.png
+    notes: https://osf.io/f6jgk/overview
     
   - title: Self-directed learning for community health workers in Malawi through Generative AI
     authors: <strong>Taylor, A.*</strong>, Magwira, M., Chamangwana, C., et. al. (*Corresponding authors)
@@ -55,4 +64,32 @@ main:
     conference_short: Wellcome
     conference: Wellcome Open Research, 2024.
     pdf: https://doi.org/10.12688/wellcomeopenres.21131.1
+    image: ./assets/img/teaser_example.png
+
+  - title: "Mapping the potential and limitations of using generative AI technologies to address socio-economic challenges in LMICs"
+    authors: "Adams, R., Adeleke, F., Junck, L. (...) Taylor, A., et al."
+    conference_short: Nat Comput Sci
+    conference: Nature Computational Science, 2026.
+    pdf: https://doi.org/10.1038/s43588-026-00960-8
+    image: ./assets/img/teaser_example.png
+    
+  - title: "mwBTFreddy: A Dataset for Flash Flood Damage Assessment in Urban Malawi"
+    authors: Chapuma, E., Mengezi, G., Msasa, L., <strong>Taylor, A.*</strong> (*Corresponding author)
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://doi.org/10.48550/arXiv.2505.0124
+    image: ./assets/img/teaser_example.png
+  
+  - title: "Book Review – Artificial intelligence and learning futures: Critical narratives of technology and imagination in higher education."
+    authors: Wang, H., Marcelle, P., <strong>Taylor, A.</strong>, et al.
+    conference_short: JIME
+    conference: Journal of Interactive Media in Education (JIME), 2024
+    pdf: https://jime.open.ac.uk/articles/10.5334/jime.946
+    image: ./assets/img/teaser_example.png
+  
+  - title: Enabling data sharing and utilization for African population health data using OHDSI tools with an OMOP common data model
+    authors: Kiwuwa-Muyingo, S., Todd, J., Bhattacharjee, T., <strong>Taylor, A.</strong>, Greenfield, J.
+    conference_short: Frontiers
+    conference: Frontiers in Public Health, 2023.
+    pdf: https://doi.org/10.3389/fpubh.2023.1116682 
     image: ./assets/img/teaser_example.png
