@@ -8,6 +8,8 @@ I am a computer scientist with a PhD in Mathematical Logic and over a decade of 
 
 I currently serve as a Senior Lecturer at the Malawi University of Business and Applied Sciences (MUBAS), where I teach undergraduate and postgraduate modules, supervise students and engage in reaseach. I have led the development of postgraduate programmes in Artificial Intelligence and Data Analytics, and supervise doctoral research in computational modelling. 
 
+I am the founder of the [Kuyesera AI Lab]{https://kailab.tech}. 
+
 ## Research Interests
 
 - **Natural Language Processing:** information extraction, machine translation, speech to text, legal text, development of datasets. 
