@@ -1,14 +1,11 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: YOLOv8s-WAMNet: Enhancing robust vehicle detection under adverse weather via hybrid attention and multi-scale fusion in real time
+    authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding authors)    conference_short: MICCAI
+    conference_short: Sci Rep
+    conference: Scientific Reports (Nature), 2026.
+    pdf: https://doi.org/10.1038/s41598-026-46527-5
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
