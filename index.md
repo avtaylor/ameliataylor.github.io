@@ -28,7 +28,7 @@ In 2022, I have founded the <a href="https://kailab.tech" target="_blank">Kuyese
 
 Note. I advanced to a PhD straight from my undergraduate studies on the basis of my excellent undergraduate studies. I received a James Watt Scholarship for my PhD studies.
 
-## Full Employment history
+## Employment history
 
 - **[Present]** Senior Lecturer in Computer Science, Malawi University of Business and Applied Sciences. I have been instrumental in establishing new MSc programmes and modules in Data Analytics and Artificial Intelligence.
 - **[2012 - Present]** Consultant in technology, AI, knowledge management
@@ -53,14 +53,12 @@ Note. I advanced to a PhD straight from my undergraduate studies on the basis of
 - Mtende Kuyokwa BSc (Development of an Explainable AI model for AI assisted TB-detection from X-ray images)
  
 
-## Events and Grants (in order or relevance)
+## Events and Grants
 - **2022 – 2024** Principal Investigator for MUBAS, INSPIRE Network: Building a data science platform, UNS130629, a Welcome Trust funded project
 - **2023** Winner (one of almost 50 winning projects) of a Global Challenges Grant for Catalysing Equitable Artificial Intelligence (AI) Use funded by the Bill and Melinda Gates Foundation
-- **2021-2022** Principal Investigator at MUBAS in a consortium led by APHRC, COVID-19 Global South AI and Data Innovation Grant, IDRC, Project ID, 109622
-- **2020** Language Coordinator Chichewa, in a Lacuna funded project, MasakhaNER for developing annotated datasets for African languages
+- **2021-2022** Principal Investigator at MUBAS, Sub-grantee in a consortium led by APHRC, COVID-19 Global South AI and Data Innovation Grant, IDRC, Project ID, 109622
+- **2020** Language Coordinator Chichewa, Lacuna & MasakhaNER,  developing annotated datasets for African languages
 - **2019 - 2020** AI4D Africa Innovation winner, Automatic classification of legal text in Malawi
-- **2019** - current  IndabaX Malawi, annual Machine Learning event - main organiser indabaxmw.wordpress.com
-- **2019** - Data Analytics 1.0 Competition, https://sites.google.com/view/dataanalytics10
 - **2019** AI4D Language Dataset Fellowship
 
 
