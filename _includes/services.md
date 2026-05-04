@@ -1,10 +1,11 @@
-## Services
+## Other Work
 
 <h4 style="margin:0 10px 0;">Conferences and Exhibitions</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://https://ml.mw/indabax-malawi-2/"><autocolor>Machine Learning Symposium in Malawi (IndabaX Malawi) 2019-2026</autocolor></a></li>
   <li><a href="https://societyofmalawi.wordpress.com/exhibitions/"><autocolor>History of Malawi: John Chilembwe Exhibition (SOM)</autocolor></a></li>
+ <li><a href=https://sites.google.com/view/dataanalytics10"><autocolor>Data Analytics 1.0 Competition</autocolor>autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Historical booklets</h4>
