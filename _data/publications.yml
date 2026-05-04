@@ -5,7 +5,7 @@ main:
     conference_short: OSF
     conference: Open Science Foundation, 2026.
     pdf: https://osf.io/cbmeh/overview
-    notes: Preprint
+    notes: Data Warehousing (Protocol)
 
   - title: "YOLOv8s-WAMNet: Enhancing robust vehicle detection under adverse weather via hybrid attention and multi-scale fusion in real time"
     authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding author)
@@ -13,6 +13,7 @@ main:
     conference: Scientific Reports (Nature), 2026.
     pdf: https://doi.org/10.1038/s41598-026-46527-5
     image: ./assets/img/yolo.png
+    notes: Computer Vision
 
   - title: "Assessing language barriers in health facilities in Malawi"
     authors: <strong>Taylor, A.*</strong>, Kazembe, P. (*Corresponding author)
@@ -20,13 +21,14 @@ main:
     conference: BMC Health Services Research (BMC), 2024.
     pdf: https://doi.org/10.1186/s12913-024-11901-4
     image: ./assets/img/languagehealth.png
+    notes: Language, Health
     
   - title: "Navigating Knowledge Engineering Challenges in Integrating Large Language Models into Social Support Initiatives"
     authors: <strong>Taylor, A.</strong>, Sokatha, Z., Junck, L.
     conference_short: SSRN
     conference: SSRN, 2024.
     pdf: https://doi.org/10.2139/ssrn.5338803 
-    note: Preprint
+    note: Generative AI, Health
 
   - title: Revisiting the use and effectiveness of patient-held records in rural Malawi
     authors: <strong>Taylor, A.*</strong>, Kazembe, P. (*Corresponding author)
@@ -34,7 +36,7 @@ main:
     conference: BMC Health Services Research (BMC), 2025.
     pdf: https://doi.org/10.1186/s12913-025-12844-0
     image: ./assets/img/HP.png
-    notes: https://osf.io/f6jgk/overview
+    notes: Health Records (https://osf.io/f6jgk/overview)
     
   - title: Self-directed learning for community health workers in Malawi through Generative AI
     authors: <strong>Taylor, A.*</strong>, Magwira, M., Chamangwana, C., et. al. (*Corresponding authors)
@@ -42,45 +44,83 @@ main:
     conference: IEEE International Conference on Healthcare Informatics (ICHI), 2024.
     pdf: https://doi.org/10.1109/ICHI61247.2024.00092
     image: ./assets/img/intelsurv.png
+    notes: Generative AI, Health
 
   - title: "INSPIRE Datahub: A Pan-African Integrated Suite of Services for Harmonising Longitudinal Population Health Data Using OHDSI Tools"
     authors: Bhattacharjee, T., Todd, J., Kiwuwa-Muyingo, S., <strong>Taylor, A.</strong>, Greenfield, J.
     conference_short: Frontiers
     conference: Frontiers in Digital Health, 2024.
     pdf: https://doi.org/10.3389/fdgth.2024.1329630
+    notes: Data Warehousing, Health
   
   - title: "Detection of Alzheimer’s disease using pre-trained deep learning models through transfer learning: a review"
     authors: Heenaye-Mamode Khan, M., Reesaul, P., Auzine, M., <strong>Taylor, A.*</strong> (*Corresponding author)
     conference_short: AI Review
     conference: Artificial Intelligence Review, 2024.
     pdf: https://doi.org/10.1007/s10462-024-10914-z
+    notes: Computer Vision / ML
   
   - title: Insights into COVID-19 data collection and management in Malawi
     authors: <strong>Taylor, A.</strong>, Liwewe, T., Todd, J., et al.
     conference_short: Wellcome
     conference: Wellcome Open Research, 2024.
     pdf: https://doi.org/10.12688/wellcomeopenres.21131.1
+    notes: Data Collection, Health Records
 
   - title: "Mapping the potential and limitations of using generative AI technologies to address socio-economic challenges in LMICs"
     authors: "Adams, R., Adeleke, F., Junck, L. (...) Taylor, A., et al."
     conference_short: Nat Comput Sci
     conference: Nature Computational Science, 2026.
     pdf: https://doi.org/10.1038/s43588-026-00960-8
+    notes: Generative AI, Health
     
   - title: "mwBTFreddy: A Dataset for Flash Flood Damage Assessment in Urban Malawi"
     authors: Chapuma, E., Mengezi, G., Msasa, L., <strong>Taylor, A.*</strong> (*Corresponding author)
     conference_short: arXiv
     conference: arXiv preprint, 2025.
     pdf: https://doi.org/10.48550/arXiv.2505.0124
+    notes: Computer Vision, Dataset
   
   - title: "Book Review – Artificial intelligence and learning futures: Critical narratives of technology and imagination in higher education."
     authors: Wang, H., Marcelle, P., <strong>Taylor, A.</strong>, et al.
     conference_short: JIME
     conference: Journal of Interactive Media in Education (JIME), 2024
     pdf: https://jime.open.ac.uk/articles/10.5334/jime.946
+    notes: AI, teaching
   
   - title: Enabling data sharing and utilization for African population health data using OHDSI tools with an OMOP common data model
     authors: Kiwuwa-Muyingo, S., Todd, J., Bhattacharjee, T., <strong>Taylor, A.</strong>, Greenfield, J.
     conference_short: Frontiers
     conference: Frontiers in Public Health, 2023.
     pdf: https://doi.org/10.3389/fpubh.2023.1116682 
+    notes: Data Warehousing, Health
+  
+  - title: Towards a machine understanding of Malawi legal text
+    authors: <strong>Taylor, A.</strong>, Mfutso-Bengo, E.
+    conference_short: Artificial Intelligence and Law
+    conference: Artificial Intelligence and Law, 2023.
+    pdf: https://doi.org/10.1007/s10506-021-09303-6 
+    notes: AI, Law
+  
+  - title: "MWCC: A Corpus of Malawi Criminal Cases"
+    authors: <strong>Taylor, A.</strong>
+    conference_short: Artificial Intelligence and Law
+    conference: "Natural Legal Language Processing Workshop co-located with the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020."
+    pdf: https://ceur-ws.org/Vol-2645/paper6.pdf
+    notes: AI, Law
+
+  - title: "Understanding factors affecting utilisation of the Case Management System of the Malawi Judiciary"
+    authors: Kachule, B., <strong>Taylor, A.</strong>
+    conference_short: EGPA
+    conference: "EGPA study group XVIII on justice and court administration, Lausanne, Switzerland, 2018."
+    pdf: https://www.researchgate.net/publication/327801512_Understanding_the_Factors_affecting_the_Utilization_of_the_Case_Management_System_of_the_Malawi_Judiciary 
+    notes: AI, Law
+
+  - title: "Using Machine Learning to Detect Fraudulent SMSs in Chichewa"
+    authors: <strong>Taylor, A.</strong>, Amoss, R.
+    conference_short: AISMT 
+    conference: "Integrating AI in Science, Management, and Technology. AISMT 2025. Communications in Computer and Information Science, vol 2699. Springer, Cham., 2025."
+    pdf: https://doi.org/10.1007/978-3-032-08260-2_12
+    notes: ML, Fraud
+    
+    
