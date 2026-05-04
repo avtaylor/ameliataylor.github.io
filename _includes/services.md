@@ -1,16 +1,14 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conferences and Exhibitions</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><a href="http://https://ml.mw/indabax-malawi-2/"><autocolor>Machine Learning Symposium in Malawi (IndabaX Malawi) 2019-2026</autocolor></a></li>
+  <li><a href="https://societyofmalawi.wordpress.com/exhibitions/"><autocolor>History of Malawi: John Chilembwe Exhibition (SOM)</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Historical booklets</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://www.amazon.com/St-Michael-All-Angels-Blantyre/dp/9990809836"><autocolor>St. Michael and All Angels Blantyre Church commemorative booklet: 130 years</autocolor></a></li>
 </ul>
