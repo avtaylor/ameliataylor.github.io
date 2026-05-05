@@ -59,7 +59,7 @@ Note. I advanced to a PhD straight from my undergraduate studies on the basis of
 - **2021-2022** Principal Investigator at MUBAS, Sub-grantee in a consortium led by APHRC, <a href="https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/harnessing-covid-19-data-support-public-health-and-economic">COVID-19 Global South AI and Data Innovation Grant, IDRC, Project ID, 109622</a>
 - **2020** Language Coordinator Chichewa, <a href="https://aclanthology.org/2023.acl-long.609/">Lacuna & MasakhaNER,  developing annotated datasets for African languages</a>
 - **2019 - 2020** AI4D Africa Innovation winner, <a href="https://www.ai4d.ai/blog/extracting-meta-data-from-malawi-court-judgments">Automatic classification of legal text in Malawi</a>
-- **2019** <a href="https://k4all.org/project/database-chichewa/">AI4D Language Dataset Fellowship</a>
+- **2019** <a href="https://aclanthology.org/people/amelia-taylor/">AI4D Language Dataset Fellowship</a>
 
 
 ## Consultancies
