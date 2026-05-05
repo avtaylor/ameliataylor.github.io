@@ -5,7 +5,7 @@ main:
     conference_short: OSF
     conference: Open Science Foundation, 2026.
     pdf: https://osf.io/cbmeh/overview
-    notes: Data Warehousing (Protocol)
+    notes: Health Informatics (Protocol)
 
   - title: "YOLOv8s-WAMNet: Enhancing robust vehicle detection under adverse weather via hybrid attention and multi-scale fusion in real time"
     authors: Jaiswal, M., Nagwanshi, K. K., Khan, M. H. M., <strong>Taylor, A.*</strong> et al. (*Corresponding author)
@@ -51,7 +51,7 @@ main:
     conference_short: Frontiers
     conference: Frontiers in Digital Health, 2024.
     pdf: https://doi.org/10.3389/fdgth.2024.1329630
-    notes: Data Warehousing, Health
+    notes: Health Informatics
   
   - title: "Detection of Alzheimer’s disease using pre-trained deep learning models through transfer learning: a review"
     authors: Heenaye-Mamode Khan, M., Reesaul, P., Auzine, M., <strong>Taylor, A.*</strong> (*Corresponding author)
@@ -93,7 +93,7 @@ main:
     conference_short: Frontiers
     conference: Frontiers in Public Health, 2023.
     pdf: https://doi.org/10.3389/fpubh.2023.1116682 
-    notes: Data Warehousing, Health
+    notes: Health Informatics
   
   - title: Towards a machine understanding of Malawi legal text
     authors: <strong>Taylor, A.</strong>, Mfutso-Bengo, E.
