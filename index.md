@@ -14,11 +14,11 @@ In 2022, I have founded the <a href="https://kailab.tech" target="_blank">Kuyese
 
 ## Research Interests
 
+- **Health Informatics**: data collection, standardisation and harmonisation (FAIR,OMOP/OHDSI), federated data and learning, ETL pipelines, synthetic data.
 - **Natural Language Processing:** information extraction, machine translation, speech to text, legal text, development of datasets. 
-- **Data warehousing**: ETL pipelines, synthetic data, data standardisation and harmonisation, federated data structures. 
-- **Technology and Law**: development of legal corpora, pipelines for automatic annotation, ethical issues.
 - **Machine Learning:** applications of machine learning in various domains such as health, law, fraud detection.
 - **Computer Vision:** OCR, video and image recognition and generation, video captioning.
+- **Technology and Law**: development of legal corpora, pipelines for automatic annotation, ethical issues.
 - **Methodologies for teaching and research**
 
 ## Education
@@ -54,12 +54,12 @@ Note. I advanced to a PhD straight from my undergraduate studies on the basis of
  
 
 ## Events and Grants
-- **2022 – 2024** Principal Investigator for MUBAS, INSPIRE Network: Building a data science platform, UNS130629, a Welcome Trust funded project
-- **2023** Winner (one of almost 50 winning projects) of a Global Challenges Grant for Catalysing Equitable Artificial Intelligence (AI) Use funded by the Bill and Melinda Gates Foundation
-- **2021-2022** Principal Investigator at MUBAS, Sub-grantee in a consortium led by APHRC, COVID-19 Global South AI and Data Innovation Grant, IDRC, Project ID, 109622
-- **2020** Language Coordinator Chichewa, Lacuna & MasakhaNER,  developing annotated datasets for African languages
-- **2019 - 2020** AI4D Africa Innovation winner, Automatic classification of legal text in Malawi
-- **2019** AI4D Language Dataset Fellowship
+- **2022 – 2024** Principal Investigator for MUBAS, <a href="https://www.lshtm.ac.uk/research/centres-projects-groups/inspire">INSPIRE Network: Building a data science platform, UNS130629, a Welcome Trust funded project</a>
+- **2023** Winner (one of almost 50 winning projects) of a Global <a href="https://gcgh.grandchallenges.org/grant/intelligent-disease-surveillance-data-feedback-system">Challenges Grant for Catalysing Equitable Artificial Intelligence (AI) Use funded by the Bill and Melinda Gates Foundation</a>
+- **2021-2022** Principal Investigator at MUBAS, Sub-grantee in a consortium led by APHRC, <a href="https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/harnessing-covid-19-data-support-public-health-and-economic">COVID-19 Global South AI and Data Innovation Grant, IDRC, Project ID, 109622</a>
+- **2020** Language Coordinator Chichewa, <a href="https://aclanthology.org/2023.acl-long.609/">Lacuna & MasakhaNER,  developing annotated datasets for African languages</a>
+- **2019 - 2020** AI4D Africa Innovation winner, <a href="https://www.ai4d.ai/blog/extracting-meta-data-from-malawi-court-judgments">Automatic classification of legal text in Malawi</a>
+- **2019** <a href="https://k4all.org/project/database-chichewa/">AI4D Language Dataset Fellowship</a>
 
 
 ## Consultancies
