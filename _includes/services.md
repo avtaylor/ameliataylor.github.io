@@ -1,3 +1,15 @@
+## Datasets
+
+<h4 style="margin:0 10px 0;">Datasets I developed and/or coordinated:</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://zenodo.org/records/6595625"><autocolor>Spoken Chichewa Dataset</autocolor></a> This was used in a news classification competition on <a href="https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge">Zindi.Africa.</a></li>
+  <li><a href="https://www.researchgate.net/publication/372477172_MasakhaPOS_Part-of-Speech_Tagging_for_Typologically_Diverse_African_Languages"><autocolor>Chichewa Parts of Speech (POS) and Named Entity (NE) Annotated dataset </autocolor></a></li>
+ <li><a href="https://kailab.tech/projects/IntelSurv/"><autocolor>Public Health Questions and Answers Dataset</autocolor></a> used for a LLM competion on <a href="https://zindi.africa/competitions/malawi-public-health-systems-llm-challenge/data">Zindi.Africa - a first such competition on the platform.</a></li>
+ <li><a href="https://kailab.tech/projects/drm_project/"><autocolor>Satellite image dataset for building damage cased by Cyclone Freddy in Malawi </autocolor></a> won a competition from AWS/IRCAI.</li>
+ <li><a href="https://zenodo.org/records/5501086"><autocolor>Malawi Criminal Cases Annotated Dataset</autocolor></a></li>
+</ul>
+
 ## Other Work
 
 <h4 style="margin:0 10px 0;">Conferences and Exhibitions</h4>
